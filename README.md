@@ -1,4 +1,4 @@
-# Angular 5 POC1
+# Angular 5 POC
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
 
